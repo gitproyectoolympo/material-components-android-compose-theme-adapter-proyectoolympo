@@ -7,19 +7,24 @@
 ## License
 
 ```
-Copyright 2020 The Android Open Source Project
+Proyecto Olympo - Licencia Comercial
+Copyright (c) 2025 Manuel Alejandro Negrete Hernandez.
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+1. USO AUTORIZADO:
+   Este software solo puede ser utilizado por usuarios que hayan adquirido una licencia válida a través de los canales oficiales del sevidor.
 
-    https://www.apache.org/licenses/LICENSE-2.0
+2. RESTRICCIONES:
+   - Prohibida la redistribución no autorizada del código fuente o binarios.
+   - Prohibido el uso del software con fines comerciales sin el consentimiento por escrito del autor.
+   - Prohibida la modificación del software para su redistribución.
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+3. SOPORTE:
+   Los usuarios con licencia activa recibirán soporte técnico y actualizaciones por un período especificado.
+
+4. TERMINACIÓN:
+   Esta licencia se terminará automáticamente si el usuario incumple alguno de los términos.
+
+Para más información, por favor contacta a: Manuel Alejandro Negrete Hernandez.
 ```
  [migratexmltocompose]: https://developer.android.com/jetpack/compose/designsystems/views-to-compose
  [compose]: https://developer.android.com/jetpack/compose
